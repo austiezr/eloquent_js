@@ -17,3 +17,5 @@ console.log(minimum(-10, 1));
 console.log(minimum(1, 10));
 console.log(minimum(10, 10));
 console.log(minimum('f', 4));
+
+// a < b ? a : b
